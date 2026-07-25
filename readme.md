@@ -69,6 +69,4 @@ This project does not currently have a license. Until one is added, all rights a
 
 Stealth Flock is intended to help individuals protect their personal privacy and reduce unwanted tracking. It is provided for informational and privacy-protection purposes. Users are responsible for complying with all applicable local, state, and federal laws.
 
-## Acknowledgments
 
-> Credit any data sources, inspiration, or projects (e.g., DeFlock) that helped make Stealth Flock possible.
